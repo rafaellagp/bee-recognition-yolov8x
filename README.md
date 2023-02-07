@@ -1,4 +1,4 @@
-# Bee recognition yolov8x
+# Mimic Bee recognition with yolov8x
 
 Mimic bee detection by computer vision model
 
